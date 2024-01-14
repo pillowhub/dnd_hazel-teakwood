@@ -1,5 +1,5 @@
 #### Hazel Teakwood
-![Hazel Teakwood Character Token](../attachments/character%20images/hazel-teakwood_token.png)
+![Hazel Teakwood Character Token](../_media/character%20images/token_hazel-teakwood.png)
 #### Druid
 #### Tiefling
 ##### Dark vision

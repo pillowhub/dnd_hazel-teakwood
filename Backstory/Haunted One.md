@@ -9,4 +9,4 @@ Those who look into your eyes can see that you have faced unimaginable horror an
 - Survival
 - Investigation
 #### Misc
-![Personaility Traits](../attachments/misc%20images/img_Personal-characteristics.png)
+![Personaility Traits](../_media/misc%20images/img_Personal-characteristics.png)
