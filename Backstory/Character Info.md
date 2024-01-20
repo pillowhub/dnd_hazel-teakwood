@@ -3,7 +3,7 @@
 #### Druid
 #### Tiefling
 ##### Dark vision
-Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
 ##### Hellish Resistance
 You have resistance to fire damage.
 ##### Infernal Legacy
