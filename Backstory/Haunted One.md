@@ -1,4 +1,4 @@
-I opened an eldritch tome and saw things unfit for a sane mind. I burned the book, but its words and images are burned into my psyche.
+I opened an [eldritch tome](Eldritch Tome.md) and saw things unfit for a sane mind. I burned the book, but its words and images are burned into my psyche.
 
 [Possessions](Possessions.md): A black wooden die with 1’s on all the faces.
 
